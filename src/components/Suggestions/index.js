@@ -14,7 +14,7 @@ const items = [
   {
     key: String(Math.random()),
     img: img1,
-    label: 'Doações'
+    label: 'Recarga'
   },
   {
     key: String(Math.random()),
@@ -24,17 +24,17 @@ const items = [
   {
     key: String(Math.random()),
     img: img3,
-    label: 'Doações'
+    label: 'Ônibus'
   },
   {
     key: String(Math.random()),
     img: img4,
-    label: 'Sky'
+    label: 'TV'
   },
   {
     key: String(Math.random()),
     img: img5,
-    label: 'Central de Doações'
+    label: 'Doações'
   },
   {
     key: String(Math.random()),
