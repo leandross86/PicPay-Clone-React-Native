@@ -6,11 +6,7 @@
 </a> <img src="https://img.shields.io/github/last-commit/leandross86/PicPay_Clone_React_Native">
 
 
-<img src="./assets/image/Screenshot02.png"/>
-<img src="./assets/image/Screenshot011.png"/>
-<img src="./assets/image/Screenshot03.png"/>
-<img src="./assets/image/Screenshot04.png"/>
-<img src="./assets/image/Screenshot05.png"/>
+<img src="./assets/image/Screenshot02.png"/> <img src="./assets/image/Screenshot011.png"/> <img src="./assets/image/Screenshot03.png"/> <img src="./assets/image/Screenshot04.png"/> <img src="./assets/image/Screenshot05.png"/>
 
 
 Objetivo de criar um clone do aplicativo PicPay utilizando React Native, Styled Components e React Navigation 5.
