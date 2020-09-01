@@ -22,7 +22,7 @@ Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máq
   $ git clone https://github.com/leandross86/PicPay-Clone-ReactNative
 ```
 
-Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
+Depois disso acesse odiretório e instale as dependências executando o seguinte comando:
 ```sh
   $ yarn install # ou npm install
 ```
