@@ -10,8 +10,8 @@
   "dependencies": {
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.7.3",
-    "@react-navigation/native": "^5.7.2",
-    "expo": "~49.0.0",
+    "@react-navigation/native": "^7.0.14",
+    "expo": "~50.0.0",
     "expo-linear-gradient": "~8.2.1",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
